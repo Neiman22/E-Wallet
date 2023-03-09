@@ -54,4 +54,4 @@ module.exports = {
       path: path.resolve(__dirname, "public"),
       assetModuleFilename: 'assets/[name][ext]',
     },
-  };
+};
